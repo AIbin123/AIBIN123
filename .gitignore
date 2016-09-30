@@ -1,0 +1,6 @@
+echo "# AIBIN123" >> README.md
+git initgit
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/AIbin123/AIBIN123.git
+git push -u origin master
